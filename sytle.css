@@ -1,0 +1,28 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.combined {
+    float: left;
+}
+
+.col1{
+    max-width: 70%;
+    min-width: 70%;
+    float: left;
+}
+
+.col2 {
+    max-width: 30%;
+    min-width: 30%;
+    float: left;
+}
+
+.button {
+    padding: 5px 10px;
+    background-color: rgb(23, 33, 82);
+    color: white;
+    margin-right: 7px;
+    border-radius: 8px;
+}
